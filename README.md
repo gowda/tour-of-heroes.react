@@ -1,20 +1,18 @@
-# react.ts.template
+# tour-of-heroes.react
 
-![](https://github.com/gowda/react.ts.template/workflows/lint-and-tests/badge.svg)
-![](https://github.com/gowda/react.ts.template/workflows/features/badge.svg)
-![](https://github.com/gowda/react.ts.template/workflows/cypress/badge.svg)
-
-template for react application in typescript.
+![](https://github.com/gowda/tour-of-heroes.react/workflows/lint-and-tests/badge.svg)
+![](https://github.com/gowda/tour-of-heroes.react/workflows/features/badge.svg)
+![](https://github.com/gowda/tour-of-heroes.react/workflows/cypress/badge.svg)
 
 ## Usage
 
-`react-app` is assumed as name of the application to be created.
+[Tour of Heroes](https://angular.io/tutorial) using react
 
 #### Clone the repository
 
 ```bash
-$ git clone git@github.com:gowda/react.ts.template.git react-app
-$ cd react-app
+$ git clone git@github.com:gowda/tour-of-heroes.react.git
+$ cd tour-of-heroes.react
 ```
 
 #### Install dependencies
